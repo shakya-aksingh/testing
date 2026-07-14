@@ -25,3 +25,11 @@ Goal 3: Technical Leadership
 * Contributing to the development of an internal chatbot aimed at enabling employees to quickly access answers to common company-related questions, improving self-service and overall productivity.
 * Supported onboarding of new team members by conducting knowledge transfer sessions, providing codebase walkthroughs, sharing development best practices, and assisting with troubleshooting.
 * H2 Focus: Define the chatbot MVP scope, establish success metrics and an adoption strategy, and convert KT sessions into reusable documentation, runbooks, and training materials to streamline future onboarding and improve team scalability.
+
+
+
+
+During the first half of the year, I consistently contributed to project deliverables while adopting AI-assisted development practices to improve productivity and code quality. I supported team knowledge sharing through KT sessions, contributed an innovation idea via the IdeaFlux portal, and worked on initiatives such as the internal chatbot to enhance employee productivity. In the second half, I aim to build reusable automation, expand the chatbot initiative, and continue improving engineering efficiency through technical contributions and collaboration.
+
+
+
